@@ -1,0 +1,15 @@
+F:\mgwl\ScanBarCode\ScanBarCode\ScanBarCode\bin\Debug\ScanBarCode.exe.config
+F:\mgwl\ScanBarCode\ScanBarCode\ScanBarCode\bin\Debug\ScanBarCode.exe
+F:\mgwl\ScanBarCode\ScanBarCode\ScanBarCode\bin\Debug\ScanBarCode.pdb
+F:\mgwl\ScanBarCode\ScanBarCode\ScanBarCode\obj\Debug\ScanBarCode.csprojAssemblyReference.cache
+F:\mgwl\ScanBarCode\ScanBarCode\ScanBarCode\obj\Debug\ScanBarCode.frmMain.resources
+F:\mgwl\ScanBarCode\ScanBarCode\ScanBarCode\obj\Debug\ScanBarCode.Properties.Resources.resources
+F:\mgwl\ScanBarCode\ScanBarCode\ScanBarCode\obj\Debug\ScanBarCode.csproj.GenerateResource.cache
+F:\mgwl\ScanBarCode\ScanBarCode\ScanBarCode\obj\Debug\ScanBarCode.csproj.CoreCompileInputs.cache
+F:\mgwl\ScanBarCode\ScanBarCode\ScanBarCode\obj\Debug\ScanBarCode.exe
+F:\mgwl\ScanBarCode\ScanBarCode\ScanBarCode\obj\Debug\ScanBarCode.pdb
+F:\mgwl\ScanBarCode\ScanBarCode\ScanBarCode\obj\Debug\ScanBarCode.frmPara.resources
+F:\mgwl\ScanBarCode\ScanBarCode\ScanBarCode\obj\Debug\ScanBarCode.frmStandard.resources
+F:\mgwl\ScanBarCode\ScanBarCode\ScanBarCode\bin\Debug\Newtonsoft.Json.dll
+F:\mgwl\ScanBarCode\ScanBarCode\ScanBarCode\bin\Debug\Newtonsoft.Json.xml
+F:\mgwl\ScanBarCode\ScanBarCode\ScanBarCode\obj\Debug\ScanBarCode.csproj.CopyComplete
